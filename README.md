@@ -2,6 +2,8 @@
 
 Marmara University / CSE2025 - Data Structures (2020)
 
-Project I
+<b>Project I</b>
+<p>In this project, </p>
 
-Project II
+<b>Project II</b>
+<p>In this project, </p>
