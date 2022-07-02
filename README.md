@@ -1,6 +1,6 @@
 # Data Structures Projects
 
-Marmara University / CSE2025 - Data Structures (2020)
+<b>Marmara University / CSE2025 - Data Structures (2020)</b>
 
 <b>Project I</b>
 <p>In this project, I calculated the total access time according to the frequency of the words in the given input. Then, I constructed a Binary Tree where I put the lowest frequency words deepest. My goal here is to minimize the total access time. Then I calculated the total access time for the second case and compared the results.</p>
